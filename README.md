@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AI Resume Analyzer
 
 A local, full-stack resume grading tool. Paste or upload a resume (and
@@ -62,3 +63,6 @@ resume-analyzer/
 =======
 # resume-analyzer
 >>>>>>> fa48f3f7d8255238c52b9eb16e31e1b53cbeff53
+=======
+# resume-analyzer
+>>>>>>> 77ac213c7891fc2811b69065424f4d881b15e53c
