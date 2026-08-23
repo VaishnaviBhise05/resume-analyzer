@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # AI Resume Analyzer
 
 A local, full-stack resume grading tool. Paste or upload a resume (and
@@ -60,9 +59,3 @@ resume-analyzer/
 - To build a production bundle: `npm run build`, then serve `dist/` with
   any static host, alongside the Express server (or deploy `server/index.js`
   separately, e.g. on Render/Fly/a VPS, and point the frontend at it).
-=======
-# resume-analyzer
->>>>>>> fa48f3f7d8255238c52b9eb16e31e1b53cbeff53
-=======
-# resume-analyzer
->>>>>>> 77ac213c7891fc2811b69065424f4d881b15e53c
