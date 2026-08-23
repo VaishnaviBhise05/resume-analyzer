@@ -22,8 +22,7 @@ and concrete bullet-point rewrites — powered by the Claude API.
    ```bash
    cp .env.example .env
    ```
-   Open `.env` and paste in your key from
-   https://console.anthropic.com/settings/keys
+ 
 
 3. **Run it**
    ```bash
