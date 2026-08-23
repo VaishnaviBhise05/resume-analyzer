@@ -4,7 +4,7 @@
 A local, full-stack resume grading tool. Paste or upload a resume (and
 optionally a job description), and get back a scored report: overall score,
 ATS compatibility, category breakdown, strengths/weaknesses, keyword match,
-and concrete bullet-point rewrites — powered by the Claude API.
+and concrete bullet-point rewrites powered by the Claude API.
 
 ## Stack
 - **Frontend:** React + Vite + Tailwind CSS
@@ -58,3 +58,6 @@ resume-analyzer/
 - To build a production bundle: `npm run build`, then serve `dist/` with
   any static host, alongside the Express server (or deploy `server/index.js`
   separately, e.g. on Render/Fly/a VPS, and point the frontend at it).
+
+  <img width="1357" height="878" alt="Screenshot 2026-08-22 212156" src="https://github.com/user-attachments/assets/c7689731-fbed-4366-b308-f8f07017c57f" />
+
